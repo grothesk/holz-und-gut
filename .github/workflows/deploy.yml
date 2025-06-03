@@ -21,7 +21,9 @@ jobs:
           cache: npm
 
       - run: npm ci
-      - run: npm run generate         # → creates /dist
+      - run: |
+            echo "BASE_URL=/${{ github.event.repository.name }}/" >> $GITHUB_ENV
+            npm run generate         # → creates /dist
 
       - run: touch dist/.nojekyll
 
