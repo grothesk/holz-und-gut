@@ -6,6 +6,6 @@
   <NuxtPage />          <!-- dynamische Seite -->
 
   <footer class="p-4 text-center text-sm text-gray-500">
-    © {{ new Date().getFullYear() }} Holz&nbsp;und&nbsp;gut
+    © {{ new Date().getFullYear() }} Holz&nbsp;und&nbsp;Gut
   </footer>
 </template>

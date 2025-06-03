@@ -3,17 +3,17 @@ const leistungen = [
   { 
     title: 'Möbel nach Maß', 
     desc: 'Individuelle Anfertigung...', 
-    img: '../img/odenwald.jpg' 
+    img: 'img/odenwald.jpg' 
   },
   { 
     title: 'Türen & Fenster', 
     desc: 'Montage energieeffizienter...', 
-    img: '../img/harz-schnee.jpg' 
+    img: 'img/harz-schnee.jpg' 
   },
   { 
     title: 'Reparaturen',     
     desc: 'Schneller Service...',        
-    img: '../img/harz-fichten-0.jpg' 
+    img: 'img/harz-fichten-0.jpg' 
   }
 ]
 </script>
