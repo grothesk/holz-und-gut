@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const images = Array.from({ length: 1 }, (_, i) =>
-    `img/werkzeug.jpg`)
+    `../img/werkzeug.jpg`)
 //  `https://source.unsplash.com/featured/800x600?wood-${i + 1}`)
 </script>
 
