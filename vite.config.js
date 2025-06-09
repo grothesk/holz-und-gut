@@ -14,5 +14,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/holz-und-gut/',   // ⇐ Repo-Name für GitHub Pages
+  // base: '/holz-und-gut/',   // ⇐ Repo-Name für GitHub Pages
 });
