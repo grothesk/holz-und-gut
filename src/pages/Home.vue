@@ -35,12 +35,16 @@
       <section class="max-w-6xl mx-auto px-4 mb-16">
         <ContactCard :image="werkstattImg"/>
       </section>
+      <section class="max-w-6xl mx-auto px-4 mb-16">
+        <ImpressumCard/>
+      </section>
     </main>
   </template>
   
   <script setup>
   import ServiceCard from '@/components/ServiceCard.vue';
   import ContactCard from '@/components/ContactCard.vue';
+  import ImpressumCard from '../components/ImpressumCard.vue';
   import heroImg from '@/assets/hero.jpg';
   import dachbodenImg from '@/assets/dachboden.jpg';
   import kommodeImg from '@/assets/kommode.jpg';
