@@ -7,7 +7,7 @@
         <p>Ralph&nbsp;Achilles</p>
         <p>Heilsauring&nbsp;13 • 23858&nbsp;Reinfeld</p>
         <p>Tel.&nbsp;<a href="tel:+4915141614320" class="underline hover:text-amber-700">+49&nbsp;1514&nbsp;1614320</a></p>
-        <p>E-Mail&nbsp;<a href="mailto:ralphachilles@posteo.de" class="underline hover:text-amber-700">alphachilles@posteo.de</a></p>
+        <p>E-Mail&nbsp;<a href="mailto:ralphachilles@posteo.de" class="underline hover:text-amber-700">ralphachilles@posteo.de</a></p>
       </section>
   
       <section>
